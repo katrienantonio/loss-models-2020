@@ -6,7 +6,7 @@ by Katrien Antonio and Jonas Crevecoeur
 Course materials for the online *Loss Models Computer Labs* in December
 2020.
 
-📆 December 14 & 16, 2020 <br> 🕚 From 11 am to 1 pm <br> 📍 online
+📆 December 14 & 16, 2020 <br> 🕐 From 11 am to 1 pm <br> 📌 online
 
 Course materials will be posted in the days before the lectures.
 
@@ -43,10 +43,10 @@ methods on your own.
 
 The detailed schedule is subject to small changes.
 
-|     Session      | Duration      | Description | Lecture material                                                                                                                                                                                                                            |
-| :--------------: | ------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|      Day 0       | your own pace | Prework     | sheets prework in [html](https://katrienantonio.github.io/loss-models-2020/sheets/prework/prework_day_0.html) and in [pdf](https://katrienantonio.github.io/loss-models-2020/sheets/prework/prework_day_0.pdf)                              |
-| December 14 & 16 |               |             | sheets in [html](https://katrienantonio.github.io/loss-models-2020/sheets/day1/loss_modelling_reserving_analytics_day_1.html#prologue) and in [pdf](https://katrienantonio.github.io/workshop-loss-reserv-fraud-2020/sheets/day1/day_1.pdf) |
+|     Session      | Duration      | Description | Lecture material                                                                                                                                                                                                                        |
+| :--------------: | ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      Day 0       | your own pace | Prework     | sheets prework in [html](https://katrienantonio.github.io/loss-models-2020/sheets/prework_day_0.html) and in [pdf](https://katrienantonio.github.io/loss-models-2020/sheets/prework_day_0.pdf)                                          |
+| December 14 & 16 |               |             | sheets in [html](https://katrienantonio.github.io/loss-models-2020/sheets/loss_models_2020_computer_labs.html) and in [pdf](https://katrienantonio.github.io/workshop-loss-reserv-fraud-2020/sheets/loss_models_2020_computer_labs.pdf) |
 
 ##### Loss modelling analytics
 
@@ -61,9 +61,9 @@ Topics include:
     a risk measure.
 
 Download lecture sheets in
-[html](https://katrienantonio.github.io/workshop-loss-reserv-fraud-2020/sheets/day1/loss_modelling_reserving_analytics_day_1.html)
+[html](https://katrienantonio.github.io/loss-models-2020/sheets/loss_models_2020_computer_labs.html)
 and
-[pdf](https://katrienantonio.github.io/workshop-loss-reserv-fraud-2020/sheets/day1/day_1.pdf).
+[pdf](https://katrienantonio.github.io/loss-models-2020/sheets/loss_models_2020_computer_labs.pdf).
 
 ## After the lectures: want to more know?
 
@@ -78,9 +78,9 @@ available via
 
 The workshop requires a basic understanding of R. We prepared some
 prework sheets that you can take a look at before the workshop
-([html](https://katrienantonio.github.io/workshop-loss-reserv-fraud-2020/sheets/prework/prework_day_0.html)
+([html](https://katrienantonio.github.io/workshop-loss-reserv-fraud-2020/sheets/prework_day_0.html)
 or
-[pdf](https://katrienantonio.github.io/workshop-loss-reserv-fraud-2020/sheets/prework/prework_day_0.pdf)).
+[pdf](https://katrienantonio.github.io/workshop-loss-reserv-fraud-2020/sheets/prework_day_0.pdf)).
 Yet another good starting level is the material covered in the
 [1-Basic](https://github.com/katrienantonio/workshop-R/tree/master/1%20-%20Basic%20R)
 folder of the [Programming in
