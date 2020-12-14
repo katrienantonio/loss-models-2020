@@ -6,7 +6,7 @@ by Katrien Antonio and Jonas Crevecoeur
 Course materials for the online *Loss Models Computer Labs* in December
 2020.
 
-📆 December 14 & 16, 2020 <br> 🕐 From 11 am to 1 pm <br> 📌 online
+📆 December 14 & 16, 2020 <br> ⏲ From 11 am to 1 pm <br> 📌 online
 
 Course materials will be posted in the days before the lectures.
 
@@ -117,8 +117,8 @@ Here are the steps you should take (before the workshop):
   - join the space
   - at the top of your screen you see ‘Projects’, click ‘Projects’
   - with the ‘copy’ button (on the right) you can make your own version
-    of the ‘Loss Models Computer Labs 2020’ project; in this copy you
-    can work on the exercises, add comments etc.
+    of the ‘December 14 & 16’ project; in this copy you can work on the
+    exercises, add comments etc.
   - you should now be able to visit the project and see the ‘scripts’
     and ‘data’ folders on the right. Open and run the
     ‘installation-instructions.R’ script from the scripts folder, to
