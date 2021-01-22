@@ -109,7 +109,7 @@ the less experienced user\!
 
 Here are the steps you should take (before the workshop):
 
-<https://rstudio.cloud/spaces/110967/join?access_code=iN4l1%2BUwpi4iNwUjir5dJrOl85D6RtN0VVkut5vF>
+[no longer valid, please download the material from GitHub, eg using the green button on top of the repo]
 
   - visit the above link
   - log in by creating an account for RStudio or by using your Google or
